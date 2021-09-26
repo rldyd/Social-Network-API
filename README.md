@@ -2,7 +2,7 @@
 
 # Social-Network-API
 
--  Build an API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list.
+####  Build an API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list.
 
 
 # Video
@@ -34,7 +34,7 @@ https://user-images.githubusercontent.com/84109630/134791820-40e6c862-96fb-4142-
 * Mongoose
 * Express.js
 
-# CREADIT
+# CREDITS
 
 * Jorge Martinez: https://github.com/JAMart01/Social-Network-API
 
