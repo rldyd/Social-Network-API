@@ -5,12 +5,12 @@
 
 # Video
 
-* USERS
+## USERS
 
 https://user-images.githubusercontent.com/84109630/134791633-ebbbd51d-e44b-4929-90f1-ba8eb937aaeb.mov
 
 
-* THOUGHS
+## THOUGHS
 
 https://user-images.githubusercontent.com/84109630/134791670-ba87a87e-d96e-4f45-a4c4-084e6c717d60.mov
 
