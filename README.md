@@ -27,14 +27,14 @@ https://user-images.githubusercontent.com/84109630/134791742-e00b7f87-5b0b-40f7-
 https://user-images.githubusercontent.com/84109630/134791820-40e6c862-96fb-4142-a0db-dbfd47fadb5f.mov
 
 
-# DATABASES
+# Databases
 
 * MongoDB
 * Mongoose ODM
 * Mongoose
 * Express.js
 
-# CREDITS
+# Credits
 
 * Jorge Martinez: https://github.com/JAMart01/Social-Network-API
 
