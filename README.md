@@ -15,12 +15,12 @@ https://user-images.githubusercontent.com/84109630/134791633-ebbbd51d-e44b-4929-
 https://user-images.githubusercontent.com/84109630/134791670-ba87a87e-d96e-4f45-a4c4-084e6c717d60.mov
 
 
-* REACTIONS
+## REACTIONS
 
 https://user-images.githubusercontent.com/84109630/134791742-e00b7f87-5b0b-40f7-9d80-70515be08ceb.mov
 
 
-* FRIENDS
+## FRIENDS
 
 https://user-images.githubusercontent.com/84109630/134791820-40e6c862-96fb-4142-a0db-dbfd47fadb5f.mov
 
